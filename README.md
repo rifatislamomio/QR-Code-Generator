@@ -1,6 +1,6 @@
-# Project Title
+# Simple QR Code Generator
 
-Simple QR Code Generator 
+ A python script that can generate QR Code
 
 ## Getting Started
 
