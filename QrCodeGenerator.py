@@ -11,10 +11,14 @@ def generateQrCode(code,file_name):
 
 
 
-
-
-
 if __name__ == "__main__":
     code = input("Enter the contents of the qr code: ")
     file_name = input("Enter the file name: ")
     generateQrCode(code,file_name)
+
+
+
+
+
+
+
