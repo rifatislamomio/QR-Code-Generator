@@ -17,7 +17,7 @@ On your console, type given commands to install required dependencies.
 
     pip install -r requirements.txt
 
-## Running the script
+## Running the Script
 
 After running the script on your console or IDE you will find that the program is asking to enter contents to 
 encode in the QR code and the file name which will be the excuted QR code's file name.
