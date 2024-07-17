@@ -13,12 +13,9 @@ Moreover few python modules will be required to run the script.
 
 ### Required Modules
 
-On your console, type given commands to install two python modules.
+On your console, type given commands to install required dependencies.
 
-    pip install pypng
-
-    pip install pyqrcode
-
+    pip install -r requirements.txt
 
 ## Running the script
 
